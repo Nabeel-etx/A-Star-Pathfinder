@@ -8,7 +8,7 @@
     "@material-ui/core": "4.9.2",
     "@material-ui/icons": "4.9.1",
     "immer": "5.3.5",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "matrix-js": "1.4.0",
     "pathfinding": "0.4.18",
     "react": "16.12.0",
